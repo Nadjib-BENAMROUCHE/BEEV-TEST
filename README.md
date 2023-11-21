@@ -11,6 +11,7 @@ Ensure you have the following installed on your system:
 - Docker Desktop
 - Python (version 3.7+)
 - docker-compose
+- git
 
 ### Steps to Run the Solution
 
@@ -50,13 +51,13 @@ Run the bonus script to generate a graph showing the amount of electric vs therm
 
 ## Project Structure
 
-- 'csv_data': Directory containing sample CSV files.
-- 'beev-test.py': Python script for reading, preprocessing, and loading data into the database.
-- 'docker-compose.yml': Configuration file for launching a PostgreSQL instance with docker-compose.
-- 'data_quality.sql': SQL queries and their results for data quality checks.
-- 'bonus_script.py': Bonus script for visualizing car sales trends.
+- `csv_data`: Directory containing sample CSV files.
+- `beev-test.py`: Python script for reading, preprocessing, and loading data into the database.
+- `docker-compose.yml`: Configuration file for launching a PostgreSQL instance with docker-compose.
+- `data_quality.sql`: SQL queries and their results for data quality checks.
+- `bonus_script.py`: Bonus script for visualizing car sales trends.
 - `requirements.txt`: File specifying Python dependencies required to run the script.
-- 'rapport.pdf' : A report explaining the steps taken and difficulties encountered (important).
+- `rapport.pdf` : A report explaining the steps taken and difficulties encountered (important).
 
 ## Contributing
 
