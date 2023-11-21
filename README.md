@@ -50,7 +50,7 @@ Run the bonus script to generate a graph showing the amount of electric vs therm
 
 ## Project Structure
 
-- 'csv_data/': Directory containing sample CSV files.
+- 'csv_data': Directory containing sample CSV files.
 - 'beev-test.py': Python script for reading, preprocessing, and loading data into the database.
 - 'docker-compose.yml': Configuration file for launching a PostgreSQL instance with docker-compose.
 - 'data_quality.sql': SQL queries and their results for data quality checks.
