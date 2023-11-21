@@ -17,9 +17,10 @@ Ensure you have the following installed on your system:
 1. **Clone the Repository:**
 
    ```bash
-   git clone <REPOSITORY_URL>
+   git clone https://github.com/Nadjib-BENAMROUCHE/BEEV-TEST.git
    cd BEEV-TEST
 
+   
 2. **Install Dependencies:**
 
     ```bash
